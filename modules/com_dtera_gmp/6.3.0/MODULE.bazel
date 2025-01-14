@@ -21,7 +21,7 @@
 
 module(
     name = "com_dtera_gmp",
-    version = "6.3.0-20250114",
+    version = "6.3.0",
     compatibility_level = 1,
 )
 
