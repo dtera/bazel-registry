@@ -21,7 +21,7 @@
 
 module(
     name = "com_dtera_heu",
-    version = "1.0.3",
+    version = "1.0.3-20250114",
     compatibility_level = 1,
 )
 
