@@ -3,7 +3,7 @@
     "integrity": "sha256-o8K4AgG4nmhhb0rTC8Zq7kknw85Q4zkpyoGdXENTiJg=",
     "strip_prefix": "gmp-6.3.0",
     "overlay": {
-        "BUILD.bazel": "sha256-3D6CoB4wb34aOgMH5Ugx/rfICWX35u9NKSDBgRe1XOA=",
+        "BUILD.bazel": "sha256-MsyVNrXM5GOao0JcIZ9rJRvLH9GF1IHfgTNIQ6tIHQE=",
         "MODULE.bazel": "sha256-dwTf4mcI7NkWbqPsiYj9Ed5d+f1xs7ZD4PlsBAzUb4Y="
     }
 }
