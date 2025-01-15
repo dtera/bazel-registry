@@ -1,5 +1,5 @@
 module(
-    name = "libtommath",
+    name = "com_dtera_libtommath",
     version = "20250114-42b3fb0",
     compatibility_level = 1,
 )

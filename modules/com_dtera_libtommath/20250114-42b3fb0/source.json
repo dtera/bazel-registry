@@ -3,7 +3,7 @@
     "integrity": "sha256-fPvbZEMRKd5CV+fTNJIA/b1PIptHD/NBezDQ85vu1B8=",
     "strip_prefix": "libtommath-42b3fb07e7d504f61a04c7fca12e996d76a25251",
     "patches": {
-        "libtommath.patch": "sha256-l6I64hEvS3MuY15G2NwTYBOhOAsRp3eVUeym9cbxCTw="
+        "libtommath.patch": "sha256-8OU46ZNq+Ltd0jL5LGwEX4gGCXlwsQkNOK/oZbDL3iI="
     },
     "patch_strip": 1
 }

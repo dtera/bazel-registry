@@ -119,7 +119,7 @@ new file mode 100644
 +package(default_visibility = ["//visibility:public"])
 +
 +cc_library(
-+    name = "libtommath",
++    name = "tommath",
 +    srcs = glob(["*.c"]),
 +    hdrs = glob(["*.h"]),
 +    copts = [
