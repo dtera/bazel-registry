@@ -14,4 +14,4 @@ tasks:
     platform: ${{ platform }}
     bazel: ${{ bazel }}
     build_targets:
-    - '@com_dtera_libtommath//:tommath'
+    - '@libtommath//:tommath'
