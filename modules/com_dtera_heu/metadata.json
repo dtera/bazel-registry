@@ -1,9 +1,16 @@
 {
   "homepage": "https://github.com/dtera/heu",
-  "maintainers": [],
-  "repository": ["github:dtera/heu"],
+  "maintainers": [
+    {
+      "name": "dtera"
+    }
+  ],
+  "repository": [
+    "github:dtera/heu"
+  ],
   "versions": [
-    "0.5.1"
+    "0.5.1",
+    "0.6.0"
   ],
   "yanked_versions": {}
 }
