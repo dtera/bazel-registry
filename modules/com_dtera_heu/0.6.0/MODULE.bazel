@@ -20,7 +20,7 @@
 ###############################################################################
 
 module(
-    name = "heu",
+    name = "com_dtera_heu",
     version = "0.6.0",
     compatibility_level = 1,
 )
