@@ -68,7 +68,7 @@
 +        "//conditions:default": default_config,
 +    }),
 +    generate_args = ["-G Ninja"],
-+    # generate_crosstool_file = False,
++    generate_crosstool_file = False,
 +    lib_source = ":source",
 +    out_static_libs = [
 +        "libmcl.a",
